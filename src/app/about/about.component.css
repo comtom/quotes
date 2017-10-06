@@ -1,0 +1,29 @@
+:host {
+    background: #2980b9;
+    max-width: 450px;
+    box-sizing: border-box;
+    padding: 2em;
+    color: #fefefe;
+    font-family: serif;
+    -moz-box-shadow: 2px 2px 15px #ccc;
+    -webkit-box-shadow: 2px 2px 15px #ccc;
+    box-shadow: 2px 2px 15px #ccc;
+    text-decoration: none;
+}
+a {
+    margin-top: 60px;
+    background: #3498db;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 1.5em;
+    box-shadow: none;
+    border: 1px solid #ccc;
+    font-size: 1em;
+    color: #fff;
+}
+
+.lnk {
+	color: #fff;
+	text-decoration: underline;
+	text-align: center;
+}

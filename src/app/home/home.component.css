@@ -1,0 +1,16 @@
+:host {
+    background: #2980b9;
+    max-width: 450px;
+    box-sizing: border-box;
+    padding: 2em;
+    color: #fefefe;
+    font-family: serif;
+    -moz-box-shadow: 2px 2px 15px #ccc;
+    -webkit-box-shadow: 2px 2px 15px #ccc;
+    box-shadow: 2px 2px 15px #ccc;
+}
+.lnk {
+	color: #fff;
+	text-decoration: underline;
+	text-align: center;
+}

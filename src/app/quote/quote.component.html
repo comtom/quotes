@@ -1,0 +1,10 @@
+<h1 *ngIf="quote">
+  {{quote.quote | uppercase}}
+</h1>
+<h3 *ngIf="quote">
+  {{quote.author}}
+</h3>
+
+<button *ngIf="showButton"(click)="readAnother()">
+  Read another quote
+</button>
